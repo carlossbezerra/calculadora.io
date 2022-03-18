@@ -13,7 +13,7 @@ O projeto foi criado em:
 - [x] Criação do CSS
 - [x] Criação do JavaScript
 
-Resultado:
+Resultado: https://vercel.com/carlossbezerra/calculadora
 
 ## Colaboradores
 
@@ -22,7 +22,7 @@ Contribuiu para este projeto:
 <table>
   <tr>
     <td align="center">
-        <img src="./assets/foto de portfolio.jpeg" width="200px;" alt="Foto"/><br>
+        <img src="./img/foto de portfolio.jpeg" width="200px;" alt="Foto"/><br>
         <sub>
           <b>CARLOS BEZERRA</b>
         </sub>
