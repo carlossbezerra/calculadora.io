@@ -13,7 +13,7 @@ O projeto foi criado em:
 - [x] Criação do CSS
 - [x] Criação do JavaScript
 
-Resultado: https://vercel.com/carlossbezerra/calculadora
+Resultado: calculadora-io.vercel.app
 
 ## Colaboradores
 
